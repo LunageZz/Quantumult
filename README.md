@@ -1,2 +1,2 @@
-# Quantumult
+# QuantumultX
 自用
